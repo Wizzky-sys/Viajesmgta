@@ -690,7 +690,8 @@ input[type='checkbox'] {
 
 .navbar-custom .nav-item .nav-link:hover,
 .navbar-custom .nav-item .nav-link.active {
-	background-color:#dc5c05;
+	color:#FF6600;
+	font-size: 25px;
 	border-radius: 30%;
 }
 
@@ -1949,7 +1950,7 @@ a:hover.back-to-top {
 	
 	.navbar-custom.top-nav-collapse .nav-item .nav-link:hover,
 	.navbar-custom.top-nav-collapse .nav-item .nav-link.active {
-		color: #fff;
+		color: #FF6600;
 	}
 
 	.navbar-custom .dropdown-menu {
@@ -2267,6 +2268,7 @@ a:hover.back-to-top {
 		margin-right: 0.75rem;
 		margin-left: 0.75rem;
 	}
+	
 	/* end of team */
 
 
